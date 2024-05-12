@@ -17,7 +17,7 @@ def app():
     st.subheader('RNN-LSTM Based Typhoon Prediction in the Philippines')
     
     text = """April G. Suarnaba 
-    Bachelor of Science in Computer Science - Articial Intelligence
+    Bachelor of Science in Computer Science - Artificial Intelligence
     College of Information and Communications Technology
     West Visayas State University"""
     st.text(text)
